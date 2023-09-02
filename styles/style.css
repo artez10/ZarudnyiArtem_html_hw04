@@ -21,7 +21,7 @@ body {
 
 /* 10 */
 .header, .main, .footer {
-    padding: 0 50px;
+    padding: 0 3.9%;
 }
 
 /* 10 */
@@ -40,7 +40,7 @@ body {
 
 /* 10 */
 .header__img-wrap {
-    padding: 14px 13px;
+    padding: 14px 1.1%;
     border: 1px solid black;
     border-radius: 2px;
     margin-bottom: 57px;
@@ -53,7 +53,7 @@ body {
 
 /* 10 */
 .article__heading {
-    margin: 15px;
+    margin: 15px 0;
     font-size: 24px;
     font-weight: 700;
     color: #A11414;
@@ -143,11 +143,4 @@ p {
 /* 10 */
 .footer__item--spec {
     font-weight: 700;
-}
-
-/* 10 */
-.footer_back {
-    flex-shrink: 0;
-    margin-bottom: 44px;
-    width: 86%;
 }
